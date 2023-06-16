@@ -44,7 +44,7 @@ To use the College Management System, follow these steps:
             git clone https://github.com/your-username/college-management-system.git
 
 ## 2.Configure the Database Connection:
-Launch the College Management System program by executing the compiled Java class file (e.g., Main.class).
+Launch the College Management System program by executing the compiled Java class file modern_tech_collage.jar.
 A login window will appear, prompting you to enter your database connection details.
 
 ## 3.Enter Database Connection Details:
