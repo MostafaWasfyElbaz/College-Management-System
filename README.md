@@ -39,9 +39,7 @@ Before using the College Management System, ensure that you have the following p
 To use the College Management System, follow these steps:
 
 ## 1.Clone the Repository:
-        Clone this repository to your local machine using the following command: 
-        
-            git clone https://github.com/your-username/college-management-system.git
+        git clone https://github.com/your-username/college-management-system.git
 
 ## 2.Configure the Database Connection:
 Launch the College Management System program by executing the compiled Java class file modern_tech_collage.jar.
